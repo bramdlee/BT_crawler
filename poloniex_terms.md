@@ -23,16 +23,12 @@ The transmission of data or information (including communications by e-mail) ove
 
 5.  POLONIEX  DOES NOT PROVIDE INVESTING ADVICE
 We are an execution-only service and do not advise on the merits of any particular transactions or their taxation consequences. In entering into any transaction on the Platform, you represent that you have been, are, and will be solely responsible for making your own independent appraisal and investigations into the risks of the transaction. You represent that you have sufficient knowledge, market sophistication, professional advice and experience to make your own evaluation of the merits and risks of any transaction. We give you no warranty as to the suitability of the cryptocurrencies traded under these Terms and assume no fiduciary duty in our relations with you.
-
 If at any point  Poloniex  or its representatives do provide trading recommendations, market commentary, or any other information, the act of doing so is incidental to your relationship with us and imposes no obligation of truth or due diligence on behalf of  Poloniex  or its representatives. We give no representation, warranty, or guarantee as to the accuracy or completeness of any such information or as to the tax consequences of any transaction.
 
 6. MARGIN TRADING
 Margin trading on  Poloniex  is HIGH RISK. You may sustain a total loss of funds, or owe money beyond what you have deposited to your Account. The high volatility and substantial risk of illiquidity in markets means that you may not always be able to liquidate your position.
-
 If the value of the assets in your Account falls below the maintenance margin requirement or  Poloniex  determines, at its sole discretion, that your Account appears to be in danger of defaulting on a loan,  Poloniex  may seize and liquidate any or all of your positions and assets on any balance in your Account in order to settle your debt to lenders. If, after your positions and assets are liquidated, your account still contains insufficient funds to settle your debts to lenders, you will be responsible for any additional funds owed. Intentionally defaulting on a loan may result in  Poloniex  reporting your activities to authorities and/or in legal prosecution.
-
 Although  Poloniex  takes several precautions to prevent a user from defaulting on a loan, the high volatility and substantial risk of illiquidity in markets means that  Poloniex  cannot make any guarantees against default. When you lend to other users using the Platform’s P2P lending system, you risk the loss of an unpaid principle if the borrower defaults on a loan and liquidation of the borrower's account fails to raise sufficient funds to cover his or her debt.
-
 All trading, margin trading, lending, and/or borrowing is conducted by Users, and  Poloniex  does not take any responsibility for any loss or damage incurred as a result of your use of any services  Poloniex  provides or your failure to understand the risks involved in your use of such services.
 
 7. LIMITED LICENSE
@@ -40,12 +36,10 @@ All trading, margin trading, lending, and/or borrowing is conducted by Users, an
 
 8. COPYRIGHT INFRINGEMENT
 If you believe anything on the Site infringes upon any copyright which you own or control, you may file a notification of such infringement with our Designated Agent as set forth below.
-
  Poloniex , Inc.
 1013 Centre Rd, Suite 403-B
 Wilmington, DE 19801
 Attn: Copyright Agent
-
 Please see 17 U.S.C. §512(c)(3) for the requirements of a proper notification. You should note that if you knowingly misrepresent in your notification that the material or activity is infringing, you will be liable for any damages, including costs and attorneys' fees, incurred by us or the alleged infringer as the result of our relying upon such misrepresentation in removing or disabling access to the material or activity claimed to be infringing.
 
 9. 51% AND OTHER CRYPTOCURRENCY ATTACKS
@@ -56,10 +50,8 @@ Please see 17 U.S.C. §512(c)(3) for the requirements of a proper notification. 
 
 11. (AML) Anti-Money Laundering & (KYC) Know Your Customer Policy
  Poloniex  protects itself from involvement in any activity that facilitates money laundering or other criminal activities by following the FinCEN guidance for MSB’s operating in the United States.
-
  Poloniex  aims to reasonably identify each user by cross-checking user data against governmental watch lists such as OFAC, as well as 3rd party identity verification and authentication services. If a user or a user’s transaction is flagged as suspicious through our internal controls,  Poloniex  will require additional proof of identification from the user and has the right to not permit any trades, deposits, and/or withdrawals until additional and verifiable proof of identity is received and the Compliance Officer has approved the user for use of the Platform.
-
-By agreeing to our  Terms , you acknowledge and understand that  Poloniex  maintains verification levels which require user participation and verification in order to obtain, with leveled permissions based on user-supplied information, our ability to verify it, and our internal policies. You accept that you may not be able to achieve a desired level of verification, and  Poloniex  reserves the right to determine, at its sole discretion, the appropriate Verification Level for any user, as well as the right to downgrade users without prior notice.  Poloniex  may, from time to time, implement policies restricting Verification Levels by nationality, country of residence, or any other factor. This may affect your ability to withdraw funds in your account and you indemnify  Poloniex  against any losses associated with an inability to deposit and/or withdraw funds based on your verification level.
+ By agreeing to our  Terms , you acknowledge and understand that  Poloniex  maintains verification levels which require user participation and verification in order to obtain, with leveled permissions based on user-supplied information, our ability to verify it, and our internal policies. You accept that you may not be able to achieve a desired level of verification, and  Poloniex  reserves the right to determine, at its sole discretion, the appropriate Verification Level for any user, as well as the right to downgrade users without prior notice.  Poloniex  may, from time to time, implement policies restricting Verification Levels by nationality, country of residence, or any other factor. This may affect your ability to withdraw funds in your account and you indemnify  Poloniex  against any losses associated with an inability to deposit and/or withdraw funds based on your verification level.
 
 12. THIRD PARTY CONTENT
  Poloniex  and its users may provide third party content on the Site and may provide links to web pages and content that are not owned or controlled by  Poloniex  (collectively the "Third Party Content") as a service to those interested in this information.  Poloniex  does not control, endorse, or adopt any Third Party Content and makes no representation or warranties of any kind regarding the Third Party Content, including but not limited to its accuracy or completeness. You acknowledge and agree that  Poloniex  is not responsible or liable in any manner for any Third Party Content and undertakes no responsibility to update or review any Third Party Content. You acknowledge that your use of such Third Party Content is at your own risk. Your business dealings or correspondence with, or participation in promotions of, any third parties, and any terms, conditions, warranties, or representations associated with such dealings or promotions, are solely between you and such third parties.  Poloniex  is not responsible or liable for any loss or damage of any sort incurred as the result of any such dealings or promotions or as the result of the presence of such Third Party Content on the Site.
@@ -69,7 +61,6 @@ You acknowledge and agree that any materials, including but not limited to quest
 
 14. USER CONDUCT AND OBLIGATIONS
 In connection with your use of the Services, you will not:
-
 Violate or assist any party in violating any law, statute, ordinance, regulation or any rule of any self-regulatory or similar organization of which you are or are required to be a member through your use of the Services;
 Provide false, inaccurate or misleading information;
 Infringe upon  Poloniex’s  or any third party’s copyright, patent, trademark, or intellectual property rights;
@@ -79,16 +70,14 @@ Take any action that imposes an unreasonable or disproportionately large load on
 Transmit or upload any material to the Site that contains viruses, Trojan horses, worms, or any other harmful or deleterious programs;
 Otherwise attempt to gain unauthorized access to the Site, other  Poloniex  Accounts, computer systems or networks connected to the Site, through password mining or any other means; or
 Transfer any rights granted to you under these Terms.
+
 15. TRANSFERABILITY
 While the Account and the Services provided to a user are not transferable under any circumstance and shall be used only by the user,  Poloniex  shall have the right to transfer, assign, or sell all the rights, benefits, or obligations to any person and these  Terms  shall continue to be in force and effect for the benefit of the successors and assigns of  Poloniex .
 
 16. ELECTRONIC TRADING TERMS
 A transaction on the Platform may fail for several reasons, including but not limited to change in seller prices, insufficient margin, unspecified lot size or unanticipated technical difficulties. We make no representation or warrant that any transaction will be executed properly.  Poloniex  is under no circumstances liable for any loss or injury suffered by a failure of a transaction to complete properly. Further,  Poloniex  is in no way responsible for notifying you of a transaction failure. The User has full responsibility to determine and inquire into the failure of any transaction the User initiates.
-
-In the event that you receive any data, information or software other than that which you are entitled to receive pursuant to these Terms, you will immediately notify us and will not use, in any way whatsoever, such data, information or software. If you request a withdrawal of funds from your Account and we cannot comply with it without closing some part of your open positions, we will not comply with the request until you have closed sufficient positions to allow you to make the withdrawal.
-
-We shall be entitled to act for you upon instructions given by or purporting to be given by you or any person authorized on your behalf without further inquiry as to the genuineness, authority, or identity of the person giving or purporting to give such instructions, provided such instruction is accompanied by correct information about your Account.
-
+ In the event that you receive any data, information or software other than that which you are entitled to receive pursuant to these Terms, you will immediately notify us and will not use, in any way whatsoever, such data, information or software. If you request a withdrawal of funds from your Account and we cannot comply with it without closing some part of your open positions, we will not comply with the request until you have closed sufficient positions to allow you to make the withdrawal.
+ We shall be entitled to act for you upon instructions given by or purporting to be given by you or any person authorized on your behalf without further inquiry as to the genuineness, authority, or identity of the person giving or purporting to give such instructions, provided such instruction is accompanied by correct information about your Account.
  Poloniex  reserves the right to refuse to process, or the right to cancel or reverse, any transaction on the Platform where  Poloniex  suspects the transaction involves money laundering, terrorist financing, fraud, or any other type of crime, as legally required as an MSB, or if  Poloniex  suspects the transaction related to Prohibited Use as stated in our  Terms  of Use.
 
 17. PERMANENT WITHDRAWAL OF SERVICE
@@ -102,14 +91,13 @@ You agree to indemnify, defend and hold  Poloniex , its affiliates and service p
 
 20. DISCLAIMER OF WARRANTEES
  POLONIEX  PROVIDES NO GUARANTEE AS TO THE PERFORMANCE OR THE UNINTERRUPTED AVAILABILITY OF THE SERVICES. THE SERVICES ARE PROVIDED ON AN "AS IS," "AS AVAILABLE" BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED.  POLONIEX  DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT WITH RESPECT TO THE SERVICES.  POLONIEX  DOES NOT REPRESENT OR WARRANT THAT THE SERVICES AND THE INFORMATION CONTAINED THEREIN ARE ACCURATE, COMPLETE, RELIABLE, CURRENT OR ERROR-FREE.  POLONIEX  WILL MAKE REASONABLE EFFORTS TO ENSURE THAT TRANSACTIONS ON THE PLATFORM ARE PROCESSED IN A TIMELY FASHION, BUT MAKES NO REPRESENTATIONS OR WARRANTIES WITH RESEPCT TO THE AMOUNT OF TIME NEEDED TO PROCESS SUCH TRANSACTIONS. BECAUSE CRYPTOCURRENCY TRANSFERS ON AND OFF THE PLATFORM ARE DEPENDENT UPON MANY FACTORS OUTSIDE OF OUR CONTROL,  POLONIEX  MAKES NO REPRESENTATIONS OR WARRANTIES REGARDING THE SUCCESS OF, OR THE AMOUNT OF TIME NEEDED FOR, CRYPTOCURRENCY TRANSACTIONS.
-
-SOME JURISDICTIONS DO NOT ALLOW THE DISCLAIMER OF IMPLIED TERMS IN CONTRACTS WITH CONSUMERS, SO SOME OR ALL OF THE DISCLAIMERS IN THIS SECTION MAY NOT APPLY TO YOU.
+ SOME JURISDICTIONS DO NOT ALLOW THE DISCLAIMER OF IMPLIED TERMS IN CONTRACTS WITH CONSUMERS, SO SOME OR ALL OF THE DISCLAIMERS IN THIS SECTION MAY NOT APPLY TO YOU.
 
 21. LIMITATION OF LIABILITY
-TO THE MAXIMUM EXTENT PERMITTED BY LAW,  POLONIEX  SHALL HAVE NO LIABILITY FOR ANY DAMAGES OF ANY KIND (INCLUDING WITHOUT LIMITATION INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR TORT DAMAGES, OR LOST PROFITS) IN CONNECTION WITH YOUR USE OF THE SERVICES, EVEN IF  POLONIEX  HAS BEEN ADVISED OR IS AWARE OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT WILL  POLONIEX’S  LIABILITY FOR MONEY DAMAGES UNDER THESE  TERMS  EXCEED THE AMOUNT OF FEES RECEIVED FROM YOU DURING THE PRECEDING SIX (6) MONTH PERIOD.
+ TO THE MAXIMUM EXTENT PERMITTED BY LAW,  POLONIEX  SHALL HAVE NO LIABILITY FOR ANY DAMAGES OF ANY KIND (INCLUDING WITHOUT LIMITATION INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR TORT DAMAGES, OR LOST PROFITS) IN CONNECTION WITH YOUR USE OF THE SERVICES, EVEN IF  POLONIEX  HAS BEEN ADVISED OR IS AWARE OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT WILL  POLONIEX’S  LIABILITY FOR MONEY DAMAGES UNDER THESE  TERMS  EXCEED THE AMOUNT OF FEES RECEIVED FROM YOU DURING THE PRECEDING SIX (6) MONTH PERIOD.
 
 22. APPLICABLE LAW AND VENUE
-These Terms and your use of the Services will be governed by and construed in accordance with the laws of New York, without resort to its conflict of law provisions. You agree that any action at law or in equity arising out of or relating to these Terms not subject to arbitration (as set forth below), will be filed only in the state courts of Tompkins County, New York or the Federal Courts of the Northern District of New York. You hereby irrevocably and unconditionally consent and submit to the exclusive jurisdiction of such courts over any suit, action or proceeding arising out of these Terms.
+ These Terms and your use of the Services will be governed by and construed in accordance with the laws of New York, without resort to its conflict of law provisions. You agree that any action at law or in equity arising out of or relating to these Terms not subject to arbitration (as set forth below), will be filed only in the state courts of Tompkins County, New York or the Federal Courts of the Northern District of New York. You hereby irrevocably and unconditionally consent and submit to the exclusive jurisdiction of such courts over any suit, action or proceeding arising out of these Terms.
 
 23. ARBITRATION
 Except for claims for injunctive or equitable relief or claims regarding intellectual property rights (which may be brought in any competent court without the posting of a bond), any dispute arising under your use of the Services shall be finally settled on an individual basis through confidential, binding arbitration in accordance with the American Arbitration Association's rules for arbitration of consumer-related disputes and you and  Poloniex  hereby expressly waive trial by jury. The arbitration shall take place in New York, New York, in the English language and the arbitral decision may be enforced in any court. At your request, hearings may be conducted in person or by telephone and the arbitrator may provide for submitting and determining motions on briefs, without oral hearings. The prevailing party in any action or proceeding to enforce this agreement shall be entitled to costs and attorneys' fees. Additionally, you hereby waive your right to participate in a class action lawsuit or class-wide arbitration.
@@ -131,5 +119,4 @@ You agree that these  Terms ,  Poloniex's  Privacy Policy and other notices post
 
 29. QUESTIONS AND CONTACT INFORMATION
 Please check the Twitter account before contacting support:  Poloniex  Twitter
-
-To contact support, go to  Poloniex  Support and open a ticket. Please provide all relevant information, including your  Poloniex  username and transaction IDs of any related deposits. Although we make no representations or provide no warranties about the speed of response, we will get back to you as soon as possible, typically within 24 hours.
+ To contact support, go to  Poloniex  Support and open a ticket. Please provide all relevant information, including your  Poloniex  username and transaction IDs of any related deposits. Although we make no representations or provide no warranties about the speed of response, we will get back to you as soon as possible, typically within 24 hours.
