@@ -11,9 +11,9 @@
 - Python 기초문법(코드아카데미 python 코스로 대체)
 - Jupyter notebook 설치 및 가동하기.
 - Anaconda CLI 사용하기(Jupyter notebook 환경설정).
-- 웹브라우저 개발자 모드를 통한 HTML 구조의 이해, 기초 소개.
 - Python requests 라이브러리 사용하여 웹페이지 불러오기.
-- Python lxml 라이브러리로 웹페이지 파싱하기.
+- Python BeautifulSoup 라이브러리로 웹페이지 파싱하기.
+- 웹브라우저 개발자 모드를 통한 HTML 구조의 이해, 기초 소개.
 - Python 정규식 사용하기.
 - Python Pandas 라이브러리 사용하여 데이터 테이블 만들어 보기.
 - Twitter API를 활용하여 데이터 수집하기.
